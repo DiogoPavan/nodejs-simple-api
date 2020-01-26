@@ -19,6 +19,7 @@
   "homepage": "https://github.com/razzolim/nodejs-simple-api#readme",
   "dependencies": {
     "body-parser": "1.17.2",
-    "express": "4.15.3"
+    "express": "4.15.3",
+    "pem": "1.14.4"
   }
 }
